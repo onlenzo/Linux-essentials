@@ -1,17 +1,25 @@
-# Linux-essentials
-🐧 My Linux fundamentals notes, bash scripts, and security cheatsheets
+## 🐧 Linux Essentials
 
-# 🐧 Linux Essentials for Beginner Pentesters
 
-This repository contains my personal Linux learning notes, scripts, and quick-reference cheatsheets as I train to become a penetration tester.  
+```markdown
+This repository is part of my journey as a **17-year-old aspiring penetration tester**.  
+It contains my notes, scripts, and quick-reference material for mastering Linux — one of the most critical skills in cybersecurity.
 
 ## 📂 Structure
-- `notes/` — Markdown notes explaining Linux fundamentals
-- `scripts/` — Simple bash tools I write to practice automation
-- `cheatsheets/` — Quick lookup tables for commands (e.g., Nmap)
+- `notes/` — Markdown notes explaining core Linux concepts
+- `scripts/` — Simple Bash scripts for automation & recon
+- `cheatsheets/` — Quick lookup sheets for commands (e.g., Nmap)
 
 ## 🧠 Topics Covered
-- Basic commands & navigation
-- File permissions & ownership
+- Navigation, file management, permissions
 - Process management
-- Bash scripting for security tasks
+- System recon & automation scripting
+- Nmap usage for scanning
+
+## ⚡ Goals
+- Build strong Linux fundamentals
+- Use this as a personal knowledge base
+- Update regularly as I learn
+
+> 💡 This repo is built for **learning in public** — feel free to fork or star if it helps you too.
+
